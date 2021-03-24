@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git add [1.-Harriet-s-Repo]
+git reset
+git reset [1.-Harriet-s-Repo]
