@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git add [1.-Harriet-s-Repo]
+git reset
+git reset [1.-Harriet-s-Repo]
+git remote add origin https://github.com/username/https://github.com/harrietga/1.-Harriet-s-Repo/new/main.git
+git push -u origin main
